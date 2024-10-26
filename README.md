@@ -27,4 +27,5 @@ Aucune dépendance externe n'est requise pour ce projet. Il utilise uniquement d
 - **CSS**
 - **JavaScript**
 
-## Image
+## Preview 
+https://2mj-dev-terminal-linux.netlify.app
